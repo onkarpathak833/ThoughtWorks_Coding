@@ -1,0 +1,3 @@
+hadoop jar /home/acadgild/Onkar/Test2.jar com.test.onkar.MyDriver /TestData.txt /Stockoutput.txt 4
+
+
